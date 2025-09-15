@@ -1,2 +1,3 @@
 # powerbi-assignment
-my day by day learning in my powerbi 
+POSTING MY DAY BY DAY LEARNINGS FROM MY POWERBI CLASS
+
